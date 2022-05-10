@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="https://widget-feedback-web-nu.vercel.app/">Widget demo</a>
+  <a href="https://widget-feedback-web-nu.vercel.app/" target="_blank">Widget demo</a>
 </div>
 
 <h1 align="center">Widget Feedback</h1>
