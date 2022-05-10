@@ -35,6 +35,7 @@ export const WidgetForm = () => {
         <a
           href="https://twitter.com/lucasgomesdev"
           className="underline underline-offset-2"
+          target="_blank"
         >
           Lucas Gomes
         </a>

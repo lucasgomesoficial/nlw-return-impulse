@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Web" />
+  <img src="./widget.png" alt="Web" />
 
   &#xa0;
 
-  <a href="https://web.netlify.app">Widget demo</a>
+  <a href="https://widget-feedback-web-nu.vercel.app/">Widget demo</a>
 </div>
 
 <h1 align="center">Widget Feedback</h1>
